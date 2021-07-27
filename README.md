@@ -1,2 +1,0 @@
-# demo-juejin-boilerplate
-dom
